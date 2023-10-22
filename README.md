@@ -1,6 +1,6 @@
 <!-- Modify this according to your requirement -->
 <h3>
-Bypassing =>CHECKPOINT 2<= <span id="countdown">10</span> seconds
+Bypassing =>CHECKPOINT 2<= in <span id="countdown">10</span> seconds
 </h3>
 <!-- JavaScript part -->
 <script type="text/javascript">
